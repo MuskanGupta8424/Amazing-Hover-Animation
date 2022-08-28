@@ -1,2 +1,2 @@
 # Amazing-Hover-Animation
-# Using Vanilla JS
+ Using Vanilla JS
